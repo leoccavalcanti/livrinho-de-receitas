@@ -1,2 +1,2 @@
-# livrinho-de-receitas
+# Livrinho de Receitas
 Um livro das melhores receitas do mundo.
